@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wjuVcSWndDo75WtkP/ho/mjIaCLqqDm0vyAEbZvg7e7u4pnQJahkUZFCJhjFiAuadfTDZfXYxCSGy0ewUG2xRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Valtteri\\source\\repos\\CSGOLauncherConsole\\CSGOLauncherConsole\\CSGOLauncherConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Valtteri\\.nuget\\packages\\nvapiwrapper.net\\0.8.1.101\\nvapiwrapper.net.0.8.1.101.nupkg.sha512"
+  ],
+  "logs": []
+}

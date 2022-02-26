@@ -1,0 +1,15 @@
+C:\Users\Valtteri\source\repos\CSGOLauncherConsole\CSGOLauncherConsole\bin\Release\netcoreapp3.1\CSGOLauncherConsole.exe
+C:\Users\Valtteri\source\repos\CSGOLauncherConsole\CSGOLauncherConsole\bin\Release\netcoreapp3.1\CSGOLauncherConsole.deps.json
+C:\Users\Valtteri\source\repos\CSGOLauncherConsole\CSGOLauncherConsole\bin\Release\netcoreapp3.1\CSGOLauncherConsole.runtimeconfig.json
+C:\Users\Valtteri\source\repos\CSGOLauncherConsole\CSGOLauncherConsole\bin\Release\netcoreapp3.1\CSGOLauncherConsole.runtimeconfig.dev.json
+C:\Users\Valtteri\source\repos\CSGOLauncherConsole\CSGOLauncherConsole\bin\Release\netcoreapp3.1\CSGOLauncherConsole.dll
+C:\Users\Valtteri\source\repos\CSGOLauncherConsole\CSGOLauncherConsole\bin\Release\netcoreapp3.1\CSGOLauncherConsole.pdb
+C:\Users\Valtteri\source\repos\CSGOLauncherConsole\CSGOLauncherConsole\bin\Release\netcoreapp3.1\NvAPIWrapper.dll
+C:\Users\Valtteri\source\repos\CSGOLauncherConsole\CSGOLauncherConsole\obj\Release\netcoreapp3.1\CSGOLauncherConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valtteri\source\repos\CSGOLauncherConsole\CSGOLauncherConsole\obj\Release\netcoreapp3.1\CSGOLauncherConsole.AssemblyInfoInputs.cache
+C:\Users\Valtteri\source\repos\CSGOLauncherConsole\CSGOLauncherConsole\obj\Release\netcoreapp3.1\CSGOLauncherConsole.AssemblyInfo.cs
+C:\Users\Valtteri\source\repos\CSGOLauncherConsole\CSGOLauncherConsole\obj\Release\netcoreapp3.1\CSGOLauncherConsole.csproj.CoreCompileInputs.cache
+C:\Users\Valtteri\source\repos\CSGOLauncherConsole\CSGOLauncherConsole\obj\Release\netcoreapp3.1\CSGOLauncherConsole.csproj.CopyComplete
+C:\Users\Valtteri\source\repos\CSGOLauncherConsole\CSGOLauncherConsole\obj\Release\netcoreapp3.1\CSGOLauncherConsole.dll
+C:\Users\Valtteri\source\repos\CSGOLauncherConsole\CSGOLauncherConsole\obj\Release\netcoreapp3.1\CSGOLauncherConsole.pdb
+C:\Users\Valtteri\source\repos\CSGOLauncherConsole\CSGOLauncherConsole\obj\Release\netcoreapp3.1\CSGOLauncherConsole.genruntimeconfig.cache
